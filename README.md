@@ -10,4 +10,4 @@ Projeto utilizando JavaScript com foco em acessbilidade.
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
-![Captura de tela de 2024-07-03 22-50-56](https://github.com/andreduarte99/calmaria-spa/assets/42449246/7be4efbe-107d-4929-8f37-1065a9a1c763#vitrinedev)
+![calmaria-spa-JS](https://github.com/user-attachments/assets/b4d84645-1032-41b1-8bca-e8f1d4825b99#vitrinedev)
