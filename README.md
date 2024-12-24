@@ -6,7 +6,6 @@ Projeto utilizando JavaScript com foco em acessbilidade.
 | :sparkles: Nome        | **Calmaria Spa**
 | :label: Tecnologias | Javascript com foco em acessibilidade.
 | :rocket: URL         | https://andreduarte99.github.io/calmaria-spa-javascript-acessibilidade/
-)
 | :fire: Desafio     | https://cursos.alura.com.br/course/acessibilidade-web-wai-aria-elementos-interativos-javascript
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
