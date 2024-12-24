@@ -1,13 +1,13 @@
 # Calmaria Spa
 
-Projeto em HTML e CSS focando em conceitos de acessibilidade em CSS.
+Projeto utilizando JavaScript com foco em acessbilidade.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Calmaria Spa**
-| :label: Tecnologias | HTML e CSS.
+| :label: Tecnologias | Javascript com foco em acessibilidade.
 | :rocket: URL         | https://andreduarte99.github.io/calmaria-spa-javascript-acessibilidade/
 )
-| :fire: Desafio     | https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto
+| :fire: Desafio     | https://cursos.alura.com.br/course/acessibilidade-web-wai-aria-elementos-interativos-javascript
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
